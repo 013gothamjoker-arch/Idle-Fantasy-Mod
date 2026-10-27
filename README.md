@@ -26,7 +26,7 @@
 ## 💾 Importing the Mod Save (Required!)
 » This must be done at the first time you open the apk
 
-The coins and boosts come from the included save file, so you **must** import it:
+The coins are from the save file, so you **must** import it:
 
 1. Open the game.
 2. Go to **Settings → Import save**.
