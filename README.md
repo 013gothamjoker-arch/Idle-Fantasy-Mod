@@ -10,12 +10,7 @@
 
 - 📈 **Massive XP boosts** across all skills
 - ⚔️ **Massive combat boosts** — Defense, Attack, Strength, Ranged and Magic
-- 💰 **Free start-up coins** (about **999B** 🤑)
-- 🥷 **Buffed Thieving** — higher XP from every target, better base success, and failed attempts no longer stun you
-- 🔑 Lockpicks now boost Thieving XP like other gathering tools
-- 🐛 Lots of bug fixes (XP previews, queued Elder Isle sessions, fishing, and more — see the in-game **What's New** screen)
-- 🌍 Added Vietnamese + updated Czech, German, Italian, Lithuanian and Ukrainian translations
-
+  
 ---
 
 ## 📲 Installation
