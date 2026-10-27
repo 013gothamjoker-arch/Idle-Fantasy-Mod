@@ -24,6 +24,7 @@
 ---
 
 ## 💾 Importing the Mod Save (Required!)
+» This must be done at the first time you open the apk
 
 The coins and boosts come from the included save file, so you **must** import it:
 
@@ -32,7 +33,7 @@ The coins and boosts come from the included save file, so you **must** import it
 3. Select **`idler_save_gojo_coins.json`**.
 4. Done! You should now have your boosted stats and coins 🎉
 
-> ⚠️ Importing a save **overwrites** your current progress. Export a backup first if you care about it!
+> ⚠️ Importing a save **overwrites** your current progress so you must do it first immediately you open the apk after installing.
 
 ---
 
