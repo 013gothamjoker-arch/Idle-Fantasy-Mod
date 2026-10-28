@@ -1,4 +1,4 @@
-# 🗡️ Idle Fantasy — Gojo Mod (v1.15.7)
+# 🗡️ Idle Fantasy — Gojo Mod (v1.16.0)
 
 > **Mod by Gotham Joker** 🤍
 > An experimental, all-rounded mod of [Idle Fantasy](https://f-droid.org/packages/com.tristinbaker.idlefantasy/) (the open-source idle RPG from F-Droid).
@@ -15,11 +15,11 @@
 
 ## 📲 Installation
 
-1. Download the latest **`Idle_Fantasy_1_15_7_mod_gojo.apk`** from the [**Releases**](../../releases) page.
+1. Download the latest **`Idle_Fantasy_v1.16.0_gojo_mo.apk`** from the [**Releases**](../../releases) page.
 2. Install the APK on your Android device (you may need to allow *Install from unknown sources*).
 3. Download **`idler_save_gojo_coins.json`** (from the same Releases page) and keep it somewhere easy to find on your phone.
 
-> ✅ This mod uses its own package name (`idlefantasyz`), so it installs **alongside** the original Idle Fantasy. No need to uninstall anything, and your original save stays untouched!
+> ✅ This mod uses its own package name, so it installs **alongside** the original Idle Fantasy. No need to uninstall anything, and your original save stays untouched!
 
 ---
 
@@ -69,7 +69,7 @@ Open an [Issue](../../issues) and describe what happened 🐞
 ## 📜 Credits & License
 
 - 🎮 **Idle Fantasy** — original game by [tristinbaker](https://github.com/tristinbaker). Original project: [github.com/tristinbaker/IdleFantasy](https://github.com/tristinbaker/IdleFantasy) — please support the original dev too! 💜
-- 🛠️ **Mod** — by **Gotham Joker**, based on Idle Fantasy v1.15.7
+- 🛠️ **Mod** — by **Gotham Joker**, based on Idle Fantasy v1.16.0
 - 📄 Idle Fantasy is licensed under **GPL-3.0-only**, and this modified version is released under the same license. See [`LICENSE`](LICENSE) and the source code in this repo.
 
 This project is not affiliated with or endorsed by the original developer(s).
