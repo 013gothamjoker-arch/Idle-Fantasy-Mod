@@ -1,4 +1,4 @@
-# 🗡️ Idle Fantasy — Gojo Mod (v1.16.0)
+# 🗡️ Idle Fantasy — Gojo Mod
 
 > **Mod by Gotham Joker** 🤍
 > An experimental, all-rounded mod of [Idle Fantasy](https://f-droid.org/packages/com.tristinbaker.idlefantasy/) (the open-source idle RPG from F-Droid).
